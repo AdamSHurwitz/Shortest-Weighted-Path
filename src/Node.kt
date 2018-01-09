@@ -1,0 +1,1 @@
+data class Node(var id: Int, var distanceFromRoot: Int)
